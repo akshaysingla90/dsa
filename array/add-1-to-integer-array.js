@@ -31,7 +31,6 @@ function incrementArray(inputArr){
  if(carry==1){
      inputArr.unshift(1);
    }
-   console.log(inputArr)
 }
 
 let input = [9,9,9];
